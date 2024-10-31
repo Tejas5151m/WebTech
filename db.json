@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "60a7",
+      "name": "sanjana",
+      "dob": "2024-10-03",
+      "email": "sanjana@gmail.com",
+      "password": "sanju123"
+    },
+    {
+      "id": "d5da",
+      "name": "Raj",
+      "dob": "2024-10-11",
+      "email": "raj@123gmail.com",
+      "password": "raj123"
+    },
+    {
+      "id": "ee46",
+      "name": "tejas ",
+      "dob": "2024-11-04",
+      "email": "tejasmate1111@gmail.com",
+      "password": "tejas123"
+    },
+    {
+      "id": "aeb4",
+      "name": "Ramesh",
+      "dob": "2024-10-12",
+      "email": "ramesh@gmail.com",
+      "password": "ramesh123"
+    }
+  ]
+}
