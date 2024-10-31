@@ -1,0 +1,52 @@
+/* Center the main heading and give it a color */
+h1 {
+    color: #333;
+    font-weight: 700;
+  }
+  
+  /* Style the user list items */
+  .list-group-item {
+    border: none; /* Remove the border for a cleaner look */
+    padding: 1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .list-group-item:hover {
+    background-color: #f8f9fa; /* Light background on hover */
+  }
+
+  .head1{
+    color: black;
+    background-color: rgb(106, 183, 214);
+  }
+  
+  /* Style the user name */
+  .list-group-item h5 {
+    color: #007bff; /* Bootstrap primary color for the user name */
+  }
+  
+  /* Make email and dob details slightly muted */
+  .list-group-item p,
+  .list-group-item small {
+    color: #6c757d;
+  }
+  
+  /* Center and style the Logout button */
+  .btn-secondary {
+    font-size: 1rem;
+    padding: 0.5rem 1.5rem;
+    border-radius: 20px;
+  }
+  
+  /* Card and button spacing */
+  .container {
+    max-width: 600px;
+  }
+  
+  .card {
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+
+  
